@@ -73,13 +73,6 @@ main {
   display: block;
 }
 
-
-.nav-list-item {
-  list-style: none;
-  display: inline-block;
-  margin: 0 20px;
-}
-
 .step-box {
   width: 90%;
   padding: 10px;
